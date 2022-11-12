@@ -1,0 +1,30 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+.card{
+    margin-top: 10px;
+}
+#frm{
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: rgba(50, 50, 55, 0.23);
+	box-shadow: 0 0 17px rgb(222, 206, 206);
+}
+
+.backtotop{
+    position: fixed !important;
+    position: absolute;
+    z-index: 100;
+    padding: 10px;
+    bottom: 5px;
+    right: 10px;
+    margin-right: 300px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
